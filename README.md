@@ -30,3 +30,7 @@ This Travel Recommendation System helps users discover travel destinations based
 - Destination details page.
 
 # 📄 License
+The project is available as open source under the terms of the [MIT License]().
+
+# Contact 📬
+For any inquiries, feedback, or collaboration opportunities, please feel free to reach out to me through my [email](balwindersinghkalsi0@gmail.com) or [LinkedIn](https://www.linkedin.com/in/balwindersinghkalsi/).
