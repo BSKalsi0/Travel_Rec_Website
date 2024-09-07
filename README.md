@@ -1,4 +1,5 @@
 # 🌍 Travel Recommendation Website
+![Screenshot 2024-09-08 025347](https://github.com/user-attachments/assets/affa1568-2aa3-4f65-a920-98fc271c6426)
 
 # 📖 Overview
 This Travel Recommendation System helps users discover travel destinations based on their preferences. Built with HTML, CSS, and JavaScript, it dynamically suggests destinations by considering factors like budget, travel type, and more. The system is interactive, responsive, and offers an intuitive user experience.
